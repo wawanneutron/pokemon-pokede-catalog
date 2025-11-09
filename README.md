@@ -2,18 +2,18 @@
 
 A modern Pokédex web app built using **Next.js**, **React**, **Material UI**, and **PokeAPI**. This app allows users to browse Pokémon by type, view detailed information, and explore evolution chains.
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 [Deployment Link](https://pokemon-reyid.netlify.app)
+[Deployment Link](https://pokemon-reyid.netlify.app)
 
 ---
 
-## ⚒️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/wawanneutron/pokemon-reyid-testcase.git
+git clone hhttps://github.com/wawanneutron/pokemon-pokede-catalog.git
 cd pokemon-reyid-testcase
 ```
 
@@ -37,22 +37,22 @@ yarn dev
 
 ---
 
-## ✅ Features Implemented
+## Features Implemented
 
-- 🏠 Welcome modal shown on first visit using `sessionStorage`
-- 📚 Browse Pokémon list with pagination and filters by type
-- 🧬 View Pokémon evolution chains with navigation to each
-- 🔎 Fetch Pokémon details with pagination
-- 🌈 Type-based accent background and colors
-- 🌟 Responsive UI with Material UI components
-- 🔀 Reusable pagination hook and modular hooks for fetching data
-- 🔗 Dynamic routing with query params (e.g., `/pokemon/type?name=fire`)
-- 📈 SEO optimization with meta tags
-- ⚖️ Compare Pokémon feature to view multiple Pokémon side by side
+- Welcome modal shown on first visit using `sessionStorage`
+- Browse Pokémon list with pagination and filters by type
+- View Pokémon evolution chains with navigation to each
+- Fetch Pokémon details with pagination
+- Type-based accent background and colors
+- Responsive UI with Material UI components
+- Reusable pagination hook and modular hooks for fetching data
+- Dynamic routing with query params (e.g., `/pokemon/type?name=fire`)
+- SEO optimization with meta tags
+- Compare Pokémon feature to view multiple Pokémon side by side
 
 ---
 
-## 💡 Technical Decisions
+## Technical Decisions
 
 - **Next.js App Router** was chosen for flexible routing and server/client components.
 - **React Query** (`@tanstack/react-query`) was used for data fetching, caching, and background updates.
@@ -63,33 +63,10 @@ yarn dev
 
 ---
 
-## 🌱 Future Improvements
+## Contact
 
-- 💬 Add search functionality for Pokémon by name
-- 🔀 Support infinite scroll instead of pagination
-- 💖 User favorites with localStorage or backend
-- ⚡ Improve loading states with skeletons or transitions
+- Email: hellowawansetiawan@gmail.com
 
----
+- WhatsApp: +62 877-3269-7337
 
-## ⏱️ Time Spent
-
-| Task                         | Time           |
-| ---------------------------- | -------------- |
-| Project setup + layout       | 2 hours        |
-| Type filtering & fetch logic | 3 hours        |
-| Evolution chain feature      | 2.5 hours      |
-| UI                           | 2 hours        |
-| Modal + session handling     | 1 hour         |
-| Pagination + optimization    | 2 hours        |
-| **Total**                    | **\~12.5 hrs** |
-
----
-
-## 📬 Contact
-
-- 📧 Email: hellowawansetiawan@gmail.com
-
-- 💬 WhatsApp: +62 877-3269-7337
-
-- 💼 LinkedIn: [linkedin.com/in/wawan setiawan](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
+- LinkedIn: [linkedin.com/in/wawan setiawan](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
