@@ -1,4 +1,4 @@
-# 🧠 Pokédex App
+# Pokédex App
 
 A modern Pokédex web app built using **Next.js**, **React**, **Material UI**, and **PokeAPI**. This app allows users to browse Pokémon by type, view detailed information, and explore evolution chains.
 
