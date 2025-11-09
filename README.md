@@ -14,7 +14,7 @@ A modern Pokédex web app built using **Next.js**, **React**, **Material UI**, a
 
 ```bash
 git clone hhttps://github.com/wawanneutron/pokemon-pokede-catalog.git
-cd pokemon-reyid-testcase
+cd pokemon-pokede-catalog
 ```
 
 2. **Install dependencies:**
